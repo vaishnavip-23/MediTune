@@ -1,8 +1,8 @@
-## Finetuning Llama 3.1 (8B) with Unsloth on MEDIQA
+## Finetuning Llama 3.1 (8B) with Unsloth on MEDIQA for Medical Question-Answering. 
 
 ### Intent
 
-Evaluate whether supervised finetuning improves model accuracy versus the base model. The notebook runs an A/B comparison: Before Finetuning vs After Finetuning on the same test subset.
+This project fine-tunes Llama 3.1 (8B) for medical question answering using MEDIQA dataset and evaluates whether supervised finetuning improves model accuracy versus the base model. The notebook runs an A/B comparison: Before Finetuning vs After Finetuning on the same test subset.
 
 ### Dataset used
 
