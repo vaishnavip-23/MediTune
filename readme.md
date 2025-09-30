@@ -42,7 +42,7 @@ Metrics computed from ChatGPT-labeled files `before-finetuning-eval.xlsx` and `a
 - Before finetuning: Accuracy 0.18, Precision 1.00, Recall 0.18, F1 ≈ 0.305
 - After finetuning: Accuracy 0.32, Precision 1.00, Recall 0.32, F1 ≈ 0.484
 
-Overall, accuracy improved by 24 percentage points (relative ≈+171%).
+Overall, accuracy improved by 14 percentage points (relative ≈+78%).
 
 ### Tools used
 
