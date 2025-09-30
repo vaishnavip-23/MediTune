@@ -39,8 +39,8 @@ Used ChatGPT to label each prediction as correct (1) or incorrect (0) against th
 
 Metrics computed from ChatGPT-labeled files `before-finetuning-eval.xlsx` and `after-finetuning-eval.xlsx`:
 
-- Before finetuning: Accuracy 0.14, Precision 1.00, Recall 0.14, F1 ≈ 0.2456
-- After finetuning: Accuracy 0.38, Precision 1.00, Recall 0.38, F1 ≈ 0.5507
+- Before finetuning: Accuracy 0.18, Precision 1.00, Recall 0.18, F1 ≈ 0.305
+- After finetuning: Accuracy 0.32, Precision 1.00, Recall 0.32, F1 ≈ 0.484
 
 Overall, accuracy improved by 24 percentage points (relative ≈+171%).
 
