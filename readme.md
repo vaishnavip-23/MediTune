@@ -55,6 +55,7 @@ Overall, accuracy improved by 14 percentage points (relative ≈+78%).
 
 ### Links
 
+- Video Explanation : https://app.weet.co/play/8de51f09/create-video-tutorials-with-weet 
 - Unsloth reference notebook (Llama 3.1 (8B) Alpaca):
   https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb
 - Dataset (Lavita AI → medical_meadow_mediqa):
